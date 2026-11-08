@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://acolyte-labs.github.io/artysan-apt
+Suites: trixie
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/keyrings/artysan-archive-keyring.asc

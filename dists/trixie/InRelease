@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Sun, 08 Nov 2026 22:24:00 +0000
+Label: Artysan
+Origin: Artysan
+Suite: trixie
+MD5Sum:
+ 5bdfbe2834e6d71a62f16de29c716b15              871 main/binary-amd64/Packages
+ 441d0220423f04adcbde743c15d9c227              582 main/binary-amd64/Packages.gz
+SHA1:
+ 8cf3d142afae4165d917d6f281aec4caafbbe296              871 main/binary-amd64/Packages
+ a7510ba4d424d6d7c7a792459174e83122057f6d              582 main/binary-amd64/Packages.gz
+SHA256:
+ 77ae0f341a861c9a3cd846ca0ef236f6f5f170a5f246e02141c1f1094be415cb              871 main/binary-amd64/Packages
+ 625aeb452c3a73ca369244f1f02a02b208e1185ae901f3715ad9fb69a80ab30b              582 main/binary-amd64/Packages.gz
+SHA512:
+ ed666de1b288b4dbf1527be4b3960134d50168d481eab53b648c3973803175e1ca4452b064c17643c62867931bc08e23c8045405e4a45fcec86140256187c809              871 main/binary-amd64/Packages
+ dfa1adfb40e14f00d19424f7ef8236e3a07f664c976bcddd16688f8b74c1c16418c9180f535b22af65b5c2c37638a5aedfb1ca4a4ea96ac9f33c4f47419e4ffa              582 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQVXxhylnPn4EvQHFFyqktwpgsZRAUCavD2gAAKCRByqktwpgsZ
+RLVAAQDZmDxy6R9pnM3+ZmYJZArQ4C/9kreVBMM+qLnS+UtScQEAoJ/V1tokQCKC
+USdw7T/iFPJfds9rZ8LdM+EP/tzQ6wA=
+=yKuO
+-----END PGP SIGNATURE-----

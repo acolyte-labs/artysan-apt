@@ -1,0 +1,19 @@
+Package: artysan-server
+Architecture: amd64
+Version: 0.0.1
+Priority: optional
+Section: admin
+Maintainer: Acolyte Labs <acolyte-labs@users.noreply.github.com>
+Depends: nftables, ca-certificates
+Filename: pool/main/a/artysan-server/artysan-server_0.0.1_amd64.deb
+Size: 3308560
+MD5sum: 2ec3d50cd70213f3151e5e413028a553
+SHA1: 5b20bebd9606b90ae3e60c5e594258061bda28dc
+SHA256: ffcec9f5efb2c7ee94201a6deef35d6ee52b6a107d13a181e44418107b1c009d
+SHA512: 556068cc3c4b87dfb6b1c882f747e7e6ef970d64bf5b2ceeca8beeca993b909e2b3f1517dc7d1c30209b8ae096650cc8b8c6382d1ea1e10e7b65f97b15b6e85f
+Homepage: https://github.com/acolyte-labs/artysan-apt
+Description: Artysan control plane
+ Drives coding agents on GitHub and GitLab projects, one microVM per task.
+ This package ships the artysan binary; setting up and removing the host
+ is delegated to "artysan install" and "artysan uninstall".
+
